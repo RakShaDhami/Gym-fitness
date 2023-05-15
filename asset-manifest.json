@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Gym-fitness/static/css/main.e96eaa5a.css",
+    "main.js": "/Gym-fitness/static/js/main.b1eee63c.js",
+    "static/js/787.ef7b48db.chunk.js": "/Gym-fitness/static/js/787.ef7b48db.chunk.js",
+    "static/media/blog-4.jpg": "/Gym-fitness/static/media/blog-4.bfd66f064616a2b6dd58.jpg",
+    "static/media/blog-1.jpg": "/Gym-fitness/static/media/blog-1.39c05d1a9f7d87b6c360.jpg",
+    "static/media/bg-img4.jpg": "/Gym-fitness/static/media/bg-img4.2f28bf20cdbc69f16672.jpg",
+    "static/media/bg-img3.jpg": "/Gym-fitness/static/media/bg-img3.8bf3a62f23ee0ff9a8a6.jpg",
+    "static/media/gym.avif": "/Gym-fitness/static/media/gym.130e1b589a3c9600017d.avif",
+    "static/media/blog-3.jpg": "/Gym-fitness/static/media/blog-3.114039c3b64eeb3ee044.jpg",
+    "static/media/about-3.jpg": "/Gym-fitness/static/media/about-3.5dbea3fd58f37a18b363.jpg",
+    "static/media/team-4.jpg": "/Gym-fitness/static/media/team-4.644a6e735b9920571fb9.jpg",
+    "static/media/team-5.jpg": "/Gym-fitness/static/media/team-5.ef9635142f6d4d5dd2b4.jpg",
+    "static/media/blog-5.jpg": "/Gym-fitness/static/media/blog-5.2604233afacac22302db.jpg",
+    "static/media/team-2.jpg": "/Gym-fitness/static/media/team-2.121d3ac2e8a7367ee837.jpg",
+    "static/media/blog-2.jpg": "/Gym-fitness/static/media/blog-2.b663bf4edbacf8df35bc.jpg",
+    "static/media/about-2.jpg": "/Gym-fitness/static/media/about-2.d7fa37d7f60ece766061.jpg",
+    "static/media/team-8.jpg": "/Gym-fitness/static/media/team-8.2ebceb5fb89e0872025f.jpg",
+    "static/media/team-7.jpg": "/Gym-fitness/static/media/team-7.8eccb61ac8ba57e1c80f.jpg",
+    "static/media/team-9.jpg": "/Gym-fitness/static/media/team-9.71601831748cb16271e1.jpg",
+    "static/media/bg-img.jpg": "/Gym-fitness/static/media/bg-img.14143feb295a5231d8aa.jpg",
+    "static/media/about-1.jpg": "/Gym-fitness/static/media/about-1.26b5f8b1e002464f30ab.jpg",
+    "static/media/team-3.jpg": "/Gym-fitness/static/media/team-3.dbd1917f52771f944f9b.jpg",
+    "static/media/team-6.jpg": "/Gym-fitness/static/media/team-6.f0bac405b14c285fc82b.jpg",
+    "static/media/team-1.jpg": "/Gym-fitness/static/media/team-1.0026a548e834e91755b5.jpg",
+    "static/media/bg-img2.avif": "/Gym-fitness/static/media/bg-img2.4fe6b8918e0aa5721786.avif",
+    "static/media/logo.svg": "/Gym-fitness/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Gym-fitness/index.html",
+    "main.e96eaa5a.css.map": "/Gym-fitness/static/css/main.e96eaa5a.css.map",
+    "main.b1eee63c.js.map": "/Gym-fitness/static/js/main.b1eee63c.js.map",
+    "787.ef7b48db.chunk.js.map": "/Gym-fitness/static/js/787.ef7b48db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e96eaa5a.css",
+    "static/js/main.b1eee63c.js"
+  ]
+}
